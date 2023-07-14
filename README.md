@@ -23,7 +23,7 @@ A worksheet can only have 1,048,576 rows in Microsoft Excel because of its inabi
 ## Combining the Data
 12 csv files are uploaded as tables in the dataset '2022_tripdata'. Another table named "combined_data" is created, containing 5,667,717 rows of data for the entire year.
 
-##D ata Exploration
+## Data Exploration
 Before cleaning the data, I am familiarizing myself with the data to find the inconsistencies.
 
 Observations:
